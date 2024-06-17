@@ -2,7 +2,7 @@
 
 ## Opis
 
-Prosta aplikacja kalkulatora wykonana w Pythonie, która umożliwia podstawowe operacje matematyczne takie jak dodawanie, odejmowanie, mnożenie i dzielenie.
+Prosta aplikacja kalkulatora wykonana w Pythonie, jest to zadanie na listę 3 dla przedmiotu Narzędzia do automatyzacji budowy oprogramowania
 
 ## Instalacja
 
